@@ -1,2 +1,2 @@
-# Xmas-tree-Aurora
+# Xmas-tree
 Xmas tree in python3
